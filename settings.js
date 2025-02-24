@@ -1,13 +1,13 @@
 //-------------------[ BOT SETTINGS ]------------------// 
 
 // @project_name : CypherX
-// @author : TYLOR
+// @author : Lefeng
 // @youtube : https://www.youtube.com/@heyits_tylor
-// @instagram : heyits_tylor
+// @instagram : lefeng.not4_u
 // @telegram : t.me/heyits_tylor
 // @github : Dark-Xploit
 // @tiktok : heyits_tylor
-// @whatsapp : +254754783972
+// @whatsapp : +27630092157
 
 //----------------------[ CYPHER-X ]----------------------//
 
@@ -27,7 +27,7 @@ global.botname = process.env.BOT_NAME || 'CypherX'
 
 //-----------------[ OWNER NUMBER ]------------------//
 
-global.ownernumber = process.env.OWNER_NUMBER || '254754783972' 
+global.ownernumber = process.env.OWNER_NUMBER || '27630092157' 
 
 //--------------------[ SUDO ]--------------------------//
 
@@ -37,7 +37,7 @@ global.sudo = process.env.SUDO ? process.env.SUDO.split(',') : ['254796180105', 
 
 //-----------------[ OWNER NAME ]------------------//
 
-global.ownername = process.env.OWNER_NAME || 'Tylor' 
+global.ownername = process.env.OWNER_NAME || 'lefeng' 
 
 //------------[ STICKER PACKNAME ]-----------------//
 
