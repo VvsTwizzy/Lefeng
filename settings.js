@@ -41,11 +41,11 @@ global.ownername = process.env.OWNER_NAME || 'lefeng'
 
 //------------[ STICKER PACKNAME ]-----------------//
 
-global.packname = process.env.STICKER_PACK_NAME || "Cypher" 
+global.packname = process.env.STICKER_PACK_NAME || "★lefeng★" 
 
 //--------------[ STICKER AUTHOR NAME ]------------//
 
-global.author = process.env.STICKER_AUTHOR_NAME || "X" 
+global.author = process.env.STICKER_AUTHOR_NAME || "LEFENG†" 
 
 //-------------------[ BOT'S PREFIX ]--------------------//
 
@@ -137,13 +137,13 @@ global.plink = process.env.PLINK || "https://www.instagram.com/heyits_tylor?igsh
 
 //------------------[ WATERMARK ]--------------------//
 
-global.wm = process.env.GL_WM || "©CypherX"
+global.wm = process.env.GL_WM || "Lefeng†"
 
 //---------------------[ REPLIES ]-----------------------//
 
 global.mess = { 
   done: '*Done*', 
-  success: '©CypherX', 
+  success: 'Lefeng', 
   owner: `*You don't have permission to use this command!*`, 
   group: '*This feature becomes available when you use it in a group!*', 
   admin: '*You’ll unlock this feature with me as an admin!*', 
