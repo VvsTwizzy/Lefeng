@@ -1,7 +1,7 @@
 {
-  "name": "CypherX",
+  "name": "*𝑳𝒆𝒇𝒆𝒏𝒈 😈†",
   "version": "1.2.5",
-  "description": "CypherX, the best WhatsApp Bot",
+  "description": "☆࿐ཽ༵༆༒ 𝑻𝒘𝒊𝒛𝒛𝒚'🦇 ༒༆࿐ཽ༵☆, the best WhatsApp Bot",
   "logo": "https://i.ibb.co/Q4QCHYd/copilot-image-1739572393172.jpg",
   "keywords": ["whatsapp", "bot", "md"],
   "repository": "https://github.com/Dark-Xploit/CypherX",
@@ -17,27 +17,27 @@
     },
     "BOT_NAME": {
       "description": "Enter your bot name here",
-      "value": "CypherX",
+      "value": "*𝑳𝒆𝒇𝒆𝒏𝒈 😈†",
       "required": false
     },
     "OWNER_NUMBER": {
       "description": "Enter your number here, starting with country code E.g 2547xxxxxxxx",
-      "value": "",
+      "value": "27630092157",
       "required": true
     },
     "OWNER_NAME": {
       "description": "Enter your name here",
-      "value": "",
+      "value": "☆࿐ཽ༵༆༒ 𝑻𝒘𝒊𝒛𝒛𝒚'🦇 ༒༆࿐ཽ༵☆",
       "required": true
     },
     "STICKER_PACK_NAME": {
       "description": "Sticker pack name",
-      "value": "Cypher",
+      "value": "☆࿐ཽ༵༆༒ 𝑻𝒘𝒊𝒛𝒛𝒚'🦇 ༒༆࿐ཽ༵☆",
       "required": false
     },
     "STICKER_AUTHOR_NAME": {
       "description": "Sticker author name",
-      "value": "X",
+      "value": "*𝑳𝒆𝒇𝒆𝒏𝒈 😈†",
       "required": false
     },
     "HEROKU_API_KEY": {
@@ -52,7 +52,7 @@
     },
     "BOT_PREFIX": {
       "description": "Enter your desired prefix here",
-      "value": ".",
+      "value": "-",
       "required": true
     },
     "MODE": {
@@ -107,12 +107,12 @@
     },
     "TIMEZONE": {
       "description": "Enter your timezone here. Google or don't edit if you don't know!",
-      "value": "Africa/Nairobi",
+      "value": "Africa/South Africa",
       "required": false
     },
     "SUDO": {
       "description": " Type additional allowed users here. They'll be able to use all the functions of the bot without restrictions. Separate with comma incase of more than one number.",
-      "value": "2547xxxxxxxxx,263xxxxxxxxxx",
+      "value": "27630092157",
       "required": false
     },
     "AUTO_READ": {
@@ -122,7 +122,7 @@
     },
     "MENU_STYLE": {
       "description": "Menu style, options 1, 2, 3, 4, 5 or 6",
-      "value": "2",
+      "value": "6",
       "required": false
     }
   },
