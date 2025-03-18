@@ -23,7 +23,7 @@ global.SESSION_ID = process.env.SESSION_ID || ''
 
 //--------------------[ BOT NAME ]----------------------//
 
-global.botname = process.env.BOT_NAME || 'CypherX' 
+global.botname = process.env.BOT_NAME || '*𝑳𝒆𝒇𝒆𝒏𝒈 😈†' 
 
 //-----------------[ OWNER NUMBER ]------------------//
 
@@ -31,7 +31,7 @@ global.ownernumber = process.env.OWNER_NUMBER || '27630092157'
 
 //--------------------[ SUDO ]--------------------------//
 
-global.sudo = process.env.SUDO ? process.env.SUDO.split(',') : ['254796180105', '254712345678'];
+global.sudo = process.env.SUDO ? process.env.SUDO.split(',') : ['27630092157'];
 // Type additional allowed users here
 //NB: They'll be able to use every functions of the bot without restrictions.
 
@@ -49,7 +49,7 @@ global.author = process.env.STICKER_AUTHOR_NAME || "LEFENG†"
 
 //-------------------[ BOT'S PREFIX ]--------------------//
 
-global.prefixz = process.env.BOT_PREFIX || '.'
+global.prefixz = process.env.BOT_PREFIX || '-'
 
 //-----------------[ BOT'S MODE ]-----------------------//
 
@@ -112,7 +112,7 @@ global.welcome = process.env.WELCOME_MSG || 'false'
 
 //----------------------[ TIMEZONE ]--------------------//
 
-global.timezones = process.env.TIMEZONE || "Africa/Nairobi" 
+global.timezones = process.env.TIMEZONE || "Africa/South Africa" 
 //Don't edit this if you don't know!
 
 //--------------------[ AUTO READ ]--------------------//
